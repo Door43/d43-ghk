@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ghk:home|Door43 (ghk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ghk|d43-ghk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ghk/archive/master.zip|d43-ghk.zip]]
+
+**Recent Changes**
+{{changes>ns = ghk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ghk|Ethnologue data]]
+
